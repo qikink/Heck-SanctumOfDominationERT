@@ -1,23 +1,30 @@
+
+{time:1:00}Glare 1: Salve
+{time:1:30}Glare 2: Tranq + Barrier 
+
+{time:3:00}Glare 3: HTT + AM
+{time:3:30}Glare 4: SLT 
+
+{time:5:00}Glare 5: Rally
+{time:5:30}Glare 6: Rally
+
 |cffff0000P4:|r
-Tranq
-Salv
-HTT
-SLT
-Barrier
-AM
+{time:6:00}Tranq
+{time:6:10}Barrier
+{time:6:20}HTT
+{time:6:30}Salv + Dark
+{time:6:40}SLT 
+{time:6:40}AM 
 
 
 |cffff0000Left Group:|r
 Nakkiel
-Eluv
-Kiraez
-Jiie
+Eluv, Kiraez, Jiie
 
 
 |cffff0000Right Group:|r
 Miso
-Ein
-Anna
+Ein, Anna
 
 |cff00ff00LUST:|r P4
 
