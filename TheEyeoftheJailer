@@ -1,9 +1,9 @@
 
 {time:1:00}Glare 1: Salve
-{time:1:30}Glare 2: Tranq + Barrier 
+{time:1:30}Glare 2: SLT + Barrier 
 
-{time:3:00}Glare 3: HTT + AM
-{time:3:30}Glare 4: SLT 
+{time:3:00}Glare 3: Tranq + AM
+{time:3:30}Glare 4: HTT
 
 {time:5:00}Glare 5: Rally
 {time:5:30}Glare 6: Rally
@@ -11,8 +11,8 @@
 |cffff0000P4:|r
 {time:6:00}Tranq
 {time:6:10}Barrier
-{time:6:20}HTT
-{time:6:30}Salv + Dark
+{time:6:20}Salv + Dark
+{time:6:30}HTT
 {time:6:40}SLT 
 {time:6:40}AM 
 
