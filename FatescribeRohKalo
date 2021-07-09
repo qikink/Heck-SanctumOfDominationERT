@@ -1,30 +1,30 @@
 
-{time:0:38} |cffff0000Intermission|r - Barrier + HTT + Tree
+{time:0:38} |cffff0000Intermission|r - |cfffefefeJiie|r Barrier + |cff006fdcKiraez|r HTT + |cfffe7b09Eluv|r Tree
 
 |cffff0000P2|r
 {time:1:02} DoT
-{time:1:53} Tank - AM + Tranq
-{time:2:00} DoT - SLT
-{time:2:32} Tank - Salve 
+{time:1:53} Tank - |cfff38bb9Einnkil|r AM + |cfffe7b09Eluv|r Tranq
+{time:2:00} DoT - |cff006fdcKiraez|r SLT
+{time:2:32} Tank - |cfffefefeAnnalyze|r Salve 
 
-{time:3:31}|cffff0000 Intermission|r- HTT + Tree
+{time:3:31}|cffff0000 Intermission|r- |cff006fdcKiraez|r HTT + Tree
 
 |cffff0000P3|r
 {time:4:02} DoT
-{time:4:38} Tank - Barrier
-{time:4:48} DoT - Tranq
-{time:5:18} Tank - AM + SLT
+{time:4:38} Tank - |cfffefefeJiie|r Barrier
+{time:4:48} DoT - |cfffe7b09Eluv|r Tranq
+{time:5:18} Tank - |cfff38bb9Einnkil|r AM + |cff006fdcKiraez|r  SLT
 
-{time:5:55}|cffff0000 Intermission|r - Tree
+{time:5:55}|cffff0000 Intermission|r - |cfffe7b09Eluv|r Tree
 
 |cffff0000P4|r
-{time:6:50} Tank - HTT
+{time:6:50} Tank - |cff006fdcKiraez|r HTT
 {time:7:00} Debuff
-{time:7:30} Tank - Salve
+{time:7:30} Tank - |cfffefefeAnnalyze|r Salve
 {time:7:50} Debuff
-{time:8:10} Tank - Barrier
-{time:8:40} Debuff - Tranq + SLT
-{time:8:50} Tank - AM 
+{time:8:10} Tank - |cfffefefeJiie|r Barrier
+{time:8:40} Debuff - |cfffe7b09Eluv|r Tranq + |cff006fdcKiraez|r SLT
+{time:8:50} Tank - |cfff38bb9Einnkil|r AM 
 
 
 |cffff0000Tank Add DPS:|r
@@ -33,3 +33,5 @@ Hunters Moonkins Ele Sham
 
 
 |cff00ff00LUST:|r P4
+|cffffff00CLOCKWISE: 1
+C-CLOCKWISE: 2|r
