@@ -7,24 +7,24 @@
 {time:1:15}|cffff0000Intermission|r 
 
 {time:2:28} Ball 3 - DPS C
-{time:2:44} Bombs 2.1 - |cfffe7b09Eluv|r Tranq + |cfffefefeJiie|r SS + |cffc31d39Spicymiso|r AMZ + Kea VE
-{time:2:49} Bombs 2.2 - |cff006fdcKiraez|r SLT + |cff006fdcKiraez|r HTT + |cffc59a6cLeikkan|r Rally
+{time:2:42} Bombs 2.1 - |cfffe7b09Eluv|r Tranq + |cfffefefeJiie|r SS + |cffc31d39Spicymiso|r AMZ + Kea VE
+{time:2:47} Bombs 2.2 - |cff006fdcKiraez|r SLT + |cff006fdcKiraez|r HTT + |cffc59a6cLeikkan|r Rally
 {time:3:08} Balls 4 - DPS D
-{time:3:26} Bombs 3.1 - |cffc59a6cFrostfurý|r Rally + |cfffefefeAnnalyze|r Salve+ |cfffefefeJiie|r Barrier
-{time:3:31} Bombs 3.2 - |cffa22fc8Ketsukei|r Dark 
+{time:3:24} Bombs 3.1 - |cffc59a6cFrostfurý|r Rally + |cfffefefeAnnalyze|r Salve+ |cfffefefeJiie|r Barrier
+{time:3:29} Bombs 3.2 - |cffa22fc8Ketsukei|r Dark 
 
-{time:4:00}|cffff0000Intermission|r
+{time:4:00}|cffff0000Intermission|r (SS)
 
-{time:5:20} Bombs 3.1 - |cfff38bb9Einnkil|r AM + Annalyze Hymn + |cfffefefeJiie|r SS 
-{time:5:25} Bombs 3.2 - Kea VE
-
-
-{time:6:01} Bombs 4.1 - |cff006fdcKiraez|r SLT + |cff006fdcKiraez|r HTT 
-{time:6:06} Bombs 4.2 - |cffc59a6cLeikkan|r  Rally + |cffc31d39Spicymiso|r AMZ
+{time:5:08} Bombs 3.1 - |cfff38bb9Einnkil|r AM + Annalyze Hymn
+{time:5:15} Bombs 3.2 - Kea VE
 
 
-{time:6:41} Bombs 5.1 - |cfffe7b09Eluv|r Tranq + |cfffe7b09Eluv|r Tree
-{time:6:45} Bombs 5.2 - |cffa22fc8Ketsukei|r Dark + |cffc59a6cFrostfurý|r  Rally
+{time:5:48} Bombs 4.1 - |cff006fdcKiraez|r SLT + |cff006fdcKiraez|r HTT 
+{time:5:55} Bombs 4.2 - |cffc59a6cLeikkan|r  Rally + |cffc31d39Spicymiso|r AMZ
+
+
+{time:6:28} Bombs 5.1 - |cfffefefeJiie|r SS + |cfffe7b09Eluv|r Tranq + |cfffe7b09Eluv|r Tree
+{time:6:35} Bombs 5.2 - |cffa22fc8Ketsukei|r Dark + |cffc59a6cFrostfurý|r  Rally
 
 
 |cffff0000Trapper Masters:|r
