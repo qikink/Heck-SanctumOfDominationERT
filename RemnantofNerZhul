@@ -1,22 +1,32 @@
-{time:0:55}Dispel 1:|cfff38bb9Einnkil|r AM + |cfffefefeAnnalyze|r Salve
-{time:1:45}Dispel 2:|cff006fdcKiraez|r SLT + |cfffe7b09Eluv|r Tranq
-{time:2:16}Dispel 3:|cff006fdcKiraez|r HTT + |cffc59a6cFrostfurý|r Shout + |cffc31d39Spicymiso|r AMZ
-{time:3:05}Dispel 4:|cfffe7b09Eluv|r Tree + |cfffefefeJiie|r Barrier
-{time:3:38}Dispel 5:|cffc59a6cNiinjjas|r Rally
-{time:4:20}Dispel 6:|cfff38bb9Einnkil|r AM
-{time:5:10}Dispel 7:|cff006fdcKiraez|r SLT + |cfffe7b09Eluv|r Tranq
-{time:5:10}Dispel 7:|cfffefefeAnnalyze|r Salve
-
+{time:0:00}Pull:|cfff38bb9Einnkil|r Ashen Hallow
+|cffff0000P1:|r
+{time:0:25}Prep: Jiie Evangelism
+{time:0:42}Dispel 1: |cff006fdcKiraez|r SLT + HTT
+{time:0:52}Stabilize: Annalyze Hymn
+{time:1:25}Dispel 2: Jiie Barrier + |cfffe7b09Eluv|r Tree
+{time:1:55}Prep: Jiie Evangelism
+{time:2:10}Dispel 3: |cfff38bb9Einnkil|r Aura Mastery
+|cffff0000P2:|r
+{time:2:50}Dispel 4: |cfffe7b09Eluv|r Tranquility
+{time:3:15}Prep: Annalyze Salve
+{time:3:25}DIspel 5: Jiie Evangelism
+{time:4:05}Dispel 6: |cfff38bb9Einnkil|r Ashen Hallow
+{time:4:35}Stabilize: Annalyze Hymn
+|cffff0000P3:|r
+{time:4:55}Prep: Jiie Evangelism
+{time:5:05}Double Dispel 7.1: Jiie Barrier
+{time:5:10}Double Dispel 7.2: |cfffe7b09Eluv|r Tree
+{time:5:10}Burn: |cfff38bb9Einnkil|r Aura Mastery
+{time:5:15}Burn: |cfffe7b09Eluv|r Tranquility
 
 
 |cffff0000Orbers:|r
-|cff006fdcNoriega|r 
-|cfffe7b09Yadidi|r 
-|cff3ec6eaCathisrad|r 
-|cff3ec6eaWorkingbob|r 
+|cffa22fc8Ketsuki|r
+|cff006fdcNoriega|r
+|cfffe7b09Yadidi|r
+|cfffe7b09Mohotzilla|r
 
 |cffff0000Cleansers:|r
-|cfffe7b09Eluv|r 
-|cff006fdcKiraez|r 
+Keadoru
 
-|cff00ff00LUST:|r 25% or Pull
+|cff00ff00LUST:|r 25% (after 3rd armor break)
