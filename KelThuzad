@@ -1,36 +1,35 @@
 |cffff0000P1:|r
-{time:0:40}Frozen Destruction - SLT + HTT + Barrier
-{time:1:00}Frost Blast - Rally + Darkness
+{time:0:40}Frozen Destruction - SLT + HTT |cff006fdcKiraez|r + Barrier |cfffefefeJiie|r 
+{time:1:00}Frost Blast - Rally |cffc59a6cNiinjjas|r + Darkness |cffa22fc8Ketsukei|r 
 
 {time:1:05}Intermission
 
 |cffff0000P2:|r
-{time:2:30}Frozen Destruction - AM + Tranq
-{time:3:10}Frozen Destruction - Salve + Hymn + Rally
-{time:3:40}Frost Blast - Rally
+{time:2:30}Frozen Destruction - AM |cfff38bb9Einnkil|r  + Tranq  |cfffe7b09Eluv|r 
+{time:3:10}Frozen Destruction - Salve + Hymn |cfffefefeAnnalyze|r + Rally |cffc59a6cFrostfurý|r 
+{time:3:40}Frost Blast - Rally |cffc59a6cLeikkan|r 
 
 {time:3:45}Intermission
 
 |cffff0000P3:|r
-{time:5:00}Frozen Destruction - SLT + HTT + Barrier + Rally
+{time:5:00}Frozen Destruction - SLT + HTT  |cff006fdcKiraez|r + Barrier |cfffefefeJiie|r + Rally |cffc59a6cNiinjjas|r 
 
-{time:6:40}Intermission - Hymn
+{time:6:40}Intermission - Hymn |cfffefefeAnnalyze|r 
 
 |cffff0000P4:|r
-{time:7:25} Frost Blast - Darkness + Rally + AM
-{time:7:40} Frost Blast - Tranq
+{time:7:25} Frost Blast - + Rally |cffc59a6cFrostfurý|r + AM |cfff38bb9Einnkil|r 
+{time:7:40} Frost Blast - Tranq |cfffe7b09Eluv|r +Darkness |cffa22fc8Ketsukei|r  +SLT + HTT  |cff006fdcKiraez|r
 {time:7:55} Frost Blast - 
 
 |cffffff00Phylactery:|r
-Melee + Hunters
-Eluv
-Ein
+Melee
+|cfff38bb9Einnkil|r 
 
 
 |cff00ff00LUST:|r Final P1
 
-[1] 1{circle}
-[2] 2{circle}
+[1] 1{star}
+[2] 1{star}1{diamond}
 [3] 2{circle}1{triangle}
 [4] 2{circle}2{triangle}
 [5] 3{circle}2{triangle}
