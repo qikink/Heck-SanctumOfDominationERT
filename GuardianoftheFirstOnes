@@ -1,19 +1,59 @@
-{time:0:52} Protocol 1.1: |cff006fdcKiraez|r HTT + |cff006fdcKiraez|r SLT
-{time:0:57} Protocol 1.2: |cfff38bb9Einnkil|r AM + |cfffefefeJiie|r SS
-{time:1:07} Field 1: |cfffe7b09Eluv|r Tranq + |cffc59a6cNiinjjas|r Rally + |cffa22fc8Ketsukei|r Dark+|cffc31d39Spicymiso|r AMZ
+|cffff0000P1|r
+{time:0:05} Twist Fate
+{time:0:45} Invoke Destiny - |cfffefefeJiie|r Barrier
+{time:0:55} Twist Fate
+{time:1:23} Invoke Destiny - |cfffe7b09Eluv|r Tranq
+{time:1:45} Twist Fate - Annalyze Salve
 
-{time:2:19} Protocol 2.1: |cfffefefeAnnalyze|r Salv  + |cffc59a6cFrostfurý|r Rally + |cffc31d39Plowcoww|r AMZ
-{time:2:26} Protocol 2.2: |cfffefefeJiie|r Barrier
-{time:2:37} Field 2: |cfffe7b09Eluv|r Tree + |cfffefefeJiie|r  SS
+{time:2:00} |cffff0000Intermission|r - |cfffe7b09Eluv|r Tree + |cff006fdcKiraez|r HTT
+{time:2:15} Intermission Pt2 - Anna Hymn
 
-{time:3:48} Protocol 3.1: |cfffefefeAnnalyze|r Hymn
-{time:3:53} Protocol 3.2: |cffc59a6cLeikkan|r Rally 
-{time:4:22} Field 3: |cfffe7b09Eluv|r Tranq 
-{time:5:16} Protocol 4.1: |cff006fdcKiraez|r HTT + |cff006fdcKiraez|r  SLT+ |cffa22fc8Ketsukei|r Dark + |cfff38bb9Einnkil|r AM + |cfffefefeJiie|r SS
-{time:5:20} Protocol 4.2: |cffc31d39Spicymiso|r AMZ
+|cffff0000P2|r
+{time:2:50} Twist Fate - |cfff38bb9Einnkil|r AM
+{time:3:30} Invoke Destiny - |cff006fdcKiraez|r SLT 
+{time:3:40} Twist Fate - 
+{time:4:07} Invoke Destiny - |cfffefefeJiie|r Barrier
 
-|cffff0000Obliterate Groups:|r
-1: G2 G3 - |cff00ff00LEFT|r{moon} |cffc59a6cLeikkan|r 
-2: G4 G5 + non-tanks in G1 - |cff00ff00RIGHT|r{triangle} |cffc31d39Spicymiso|r 
+{time:5:10}|cffff0000 Intermission|r-  |cfffe7b09Eluv|r Tree + |cff006fdcKiraez|r HTT 
+{time:5:25} Anna Hymn
 
-|cff00ff00LUST:|r PULL
+|cffff0000P3|r
+
+{time:6:20} Invoke Destiny - |cfff38bb9Einnkil|r AM
+{time:6:33} Debuff - |cfffe7b09Eluv|r Tranq
+{time:7:04} Invoke Destiny - |cff006fdcKiraez|r SLT  
+{time:7:25} Debuff - Annalyze Salve
+{time:8:00} Twist Fate
+{time:8:10} Invoke Destiny - |cfffefefeJiie|r Barrier
+
+|cff00ff00LUST:|r P3
+|cffffff00CLOCKWISE:|r |cffff00001|r (LEFT)
+|cffffff00C-CLOCKWISE:|r |cffff00002|r (RIGHT)
+{star}{circle}{diamond}{triangle}{moon}{square}
+
+|cff00ff00Intermission Interrupts:|r
+{skull} - 
+{cross} - 
+
+start
+|cfffe7b09Yadidi|r 
+|cff3ec6eaWorkingbob|r 
+|cffa22fc8Ketsukei|r 
+|cff006fdcKiraez|r 
+|cff3ec6eaCathisrad|r 
+|cff006fdcNoriega|r 
+|cfffe7b09Mohotszilla|r 
+|cffa9d271Cerbii|r 
+|cffc59a6cNiinjjas|r 
+|cffc59a6cFrostfurý|r 
+|cffc31d39Plowcoww|r 
+|cfffe7b09Karnâ|r 
+|cfffe7b09Eluv|r
+|cfffef367Strifelol|r 
+|cffa9d271Arlyuiin|r 
+|cff8687edZachlock|r  
+|cfffefefeKeadoru|r
+|cfff38bb9Einnkil|r  
+|cfffefefeJiie|r 
+|cfffefefeAnnalyze|r 
+end
