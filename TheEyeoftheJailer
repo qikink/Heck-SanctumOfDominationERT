@@ -1,42 +1,49 @@
-{time:0:18}Death Link - |cfffe7b09Eluv|r Tranq
-{time:1:00}Death Link - |cff006fdcKiraez|r SLT 
+{time:0:15}Death Link - |cfffe7b09Eluv|r Tranq
+{time:0:30}Stabilize - |cfffefefeAnnalyze|r Hymn 
+{time:1:00}Death Link - |cff006fdcKiraez|r HTT
+
+{time:1:55}Transition - 
 
 |cffff0000Intermission|r
-{time:1:30}Death Gaze 1: |cfffefefeAnnalyze|r Salve - |cfffe7b09Eluv|r Tree
-{time:2:00}Death Gaze 2: |cfff38bb9Einnkil|r AM  + |cfffefefeJiie|r Barrier 
+{time:2:15}Death Gaze 1: |cfffe7b09Eluv|r Tree + |cfff38bb9Einnkil|r AM
+{time:2:35}Scary: |cffc59a6cNiinjjas|r Rally
+{time:2:50}Death Gaze 2: |cff006fdcKiraez|r SLT + |cfffefefeAnnalyze|r Salve
+{time:3:25}Death Gaze 3: |cffc59a6cFrostfurý|r Rally + Jiie Barrier
 
 |cffff0000P2:|r
-{time:2:30}Death Link - |cff006fdcKiraez|r HTT
-{time:3:20}Death Link - 
+{time:3:40}Death Link - |cfffefefeAnnalyze|r Hymn + |cffc31d39Plowcoww|r AMZ
+{time:4:25}Death Link -  |cfffe7b09Eluv|r Tranq + |cffc31d39Spicymiso|r AMZ
+{time:5:10}Death Link -  |cff006fdcKiraez|r HTT + |cffc59a6cLeikkan|r Rally + |cfff38bb9Einnkil|r AM
 
 |cffff0000Intermission:|r
-{time:4:00}Glare 3: |cffc59a6cFrostfurý|r Rally
-{time:4:30}Glare 4: |cffc59a6cNiinjjas|r Rally
-
+{time:6:20}Death Gaze 1: Personals + |cfffe7b09Eluv|r Tree
+{time:6:55}Death Gaze 2: |cffc59a6cNiinjjas|r Rally 
+{time:7:30}Death Gaze 3: |cffc59a6cFrostfurý|r Rally + |cfffefefeAnnalyze|r Hymn 
 
 |cffff0000P3:|r
-{time:5:00}1. |cfffe7b09Eluv|r Tranq
-{time:5:10}2. |cfffefefeJiie|r Barrier
-{time:5:20}3. |cfffefefeAnnalyze|r Salv + |cffa22fc8Ketsukei|r  Dark
-{time:5:30}4. |cff006fdcKiraez|r HTT + |cffc31d39Spicymiso|r AMZ
-{time:5:40}5. |cff006fdcKiraez|r SLT + |cffc31d39Plowcoww|r AMZ
-{time:5:40}6. |cfff38bb9Einnkil|r AM 
+{time:7:55}1. |cfffe7b09Eluv|r Tranq
+{time:8:05}2. |cff006fdcKiraez|r HTT 
+{time:8:15}3. |cfffefefeJiie|r Barrier +|cfffefefeAnnalyze|r Salv + |cffa22fc8Ketsukei|r  Dark
+{time:8:25}4. |cfff38bb9Einnkil|r AM + |cffc31d39Plowcoww|r AMZ + |cffc59a6cLeikkan|r Rally
+{time:8:35}5. |cff006fdcKiraez|r SLT + |cffc31d39Spicymiso|r AMZ
 
 
-{square}|cffff0000Left Group:|r{diamond}
-|cffc31d39Spicymiso|r 
-|cfffe7b09Eluv|r |cff006fdcKiraez|r |cfffefefeJiie|r 
-|cffa22fc8Ketsukei|r |cfffef367Strifelol|r |cffc31d39Plowcoww|r 
-|cff3ec6eaCathisrad|r |cff3ec6eaWorkingbob|r |cff006fdcNoriega|r |cfffe7b09Yadidi|r|cff8687edKishoû|r 
+{triangle}|cffff0000Left Group:|r{star}
+|cffc31d39Spicymiso|r  
+|cfff38bb9Einnkil|r |cff006fdcKiraez|r |cfffefefeJiie|r 
+|cffc59a6cNiinjjas|r |cffc31d39Plowcoww|r |cfffef367Strifelol|r |cff00fe97Yungbeezy|r 
+ |cffa9d271Arlyuiin|r |cfffe7b09Yadidi|r
 
 
-{cross}|cffff0000Right Group:|r{triangle}
+
+{diamond}|cffff0000Right Group:|r{circle}
 |cffc59a6cLeikkan|r 
-|cfff38bb9Einnkil|r |cfffefefeAnnalyze|r 
-|cff00fe97Yungbeezy|r |cffc59a6cNiinjjas|r |cffc59a6cFrostfurý|r |cfff38bb9Fijpik|r 
-|cffa9d271Cerbii|r |cffa9d271Arlyuiin|r |cff3ec6eaCrueltyok|r |cfffe7b09Karnâ|r |cfffefefeKeadoru|r 
+|cfffe7b09Eluv|r |cfffefefeAnnalyze|r(|cff006fdcNoriega|r )
+|cffa22fc8Ketsukei|r  |cfffefefeKeadoru|r |cff8687edZachlock|r |cfff38bb9Fijpik|r 
+|cff3ec6eaCathisrad|r |cff006fdcNoriega|r  |cfffe7b09Mohotszilla|r 
 
 |cff00ff00LUST:|r P4
+|cff00ff00PI:|r |cffc31d39Plowcoww|r |cfff38bb9Fijpik|r 
 
 
 
