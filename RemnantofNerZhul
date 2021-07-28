@@ -1,18 +1,18 @@
 {time:0:00}Pull:|cfff38bb9Einnkil|r Ashen Hallow
-|cffff0000P1:|r
+|cffff0000P1:|r |cffffff00(80%)|r
 {time:0:25}Prep: Jiie Evangelism
 {time:0:42}Dispel 1: |cff006fdcKiraez|r SLT + HTT
 {time:0:52}Stabilize: Annalyze Hymn
 {time:1:25}Dispel 2: Jiie Barrier + |cfffe7b09Eluv|r Tree
 {time:1:55}Prep: Jiie Evangelism
 {time:2:10}Dispel 3: |cfff38bb9Einnkil|r Aura Mastery
-|cffff0000P2:|r
+|cffff0000P2:|r |cffffff00(60%)|r
 {time:2:50}Dispel 4: |cfffe7b09Eluv|r Tranquility
 {time:3:15}Prep: Annalyze Salve
 {time:3:25}DIspel 5: Jiie Evangelism
 {time:4:05}Dispel 6: |cfff38bb9Einnkil|r Ashen Hallow + |cff006fdcKiraez|r SLT + HTT
 {time:4:35}Stabilize: Annalyze Hymn
-|cffff0000P3:|r
+|cffff0000P3:|r |cffffff00(30%)|r
 {time:4:55}Prep: Jiie Evangelism
 {time:5:05}Double Dispel 7.1: Jiie Barrier
 {time:5:10}Double Dispel 7.2: |cfffe7b09Eluv|r Tree
@@ -21,6 +21,7 @@
 
 
 |cffff0000Orbers:|r
+|cffc59a6cLeikkan|r 
 |cffa22fc8Ketsuki|r
 |cff006fdcNoriega|r
 |cfffe7b09Yadidi|r
