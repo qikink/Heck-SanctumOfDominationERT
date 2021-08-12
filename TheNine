@@ -1,10 +1,16 @@
-{time:0:45} |cfffe7b09Eluv|r  Tranq
-{time:1:30} |cff006fdcKiraez|r HTT
-{time:1:45} |cfffefefeAnnalyze|r Crushing Gaze Transition: Salve
-{time:2:45} |cfffefefeAnnalyze|r Hymn
-{time:3:45} |cfffe7b09Eluv|r  Tranq
-{time:4:45} |cff006fdcKiraez|r HTT
-{time:5:45} |cfffefefeAnnalyze|r Hymn
+{time:0:00} Pull: 
+{time:0:20} Song: Jiie Ramp
+{time:0:35} Song: |cfffe7b09Eluv|r Tranq
+{time:0:48} Stabilize:
+{time:0:57} Song: |cfffefefeLyci|r  Hymn
+{time:1:12} Stabilize: 
+{time:1:21} Song: |cff006fdcThatsbad|r HTT
+{time:1:35} Stabilize: |cfffe7b09Eluv|r Tree
+{time:1:45} Song: |cfffefefeLyci|r Salve
+{time:2:05} Song: 
+{time:2:20} Transition Part 1: Jiie Ramp
+{time:2:30} Transition Part 2: |cff006fdcKiraez|r HTT
+{time:2:40} Transition Part 3:
 
 |cffff0000Crushing Gaze Rotation:|r
 1. SLT  + Rally
@@ -15,12 +21,13 @@
 
 |cffff0000Interrupt Order:|r
 Formless Mass: |cfffe7b09Yadidi|r -> |cfffe7b09Mohotszilla|r 
-Signie Song: |cffa22fc8Ketsukei|r, |cfff38bb9Fijpik|r 
-Signie Blast:|cffc31d39Spicymiso|r |cff00fe97Yungbeezy|r |cffc59a6cFrostfurý|r 
+Signie Song: |cffa22fc8Ketsukei|r, |cffc31d39Plowcoww|r 
+Signie Blast:|cffc31d39Spicymiso|r |cffc59a6cNiinjjas|r |cfffef367Strifelol|r 
 
 |cffff0000Cleanse Order:|r
 |cff006fdcKiraez|r 
 |cfffe7b09Eluv|r 
-(|cfff38bb9Einnkil|r)
+|cfffefefeLyci|r
+(|cff006fdcThatsbad|r )
 
 |cff00ff00LUST: |r15% on Adds
