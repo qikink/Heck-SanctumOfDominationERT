@@ -1,31 +1,49 @@
-{time:0:55}Chains: |cffa22fc8Ketsukei|r |cfffe7b09Yadidi|r |cffa9d271Arlyuiin|r 
-{time:0:55}Break 1.1 - |cfffe7b09Mohotszilla|r  Tranq + |cffc59a6cFrostfurý|r Shout 
-{time:1:02}Break 1.2 - |cff006fdcKiraez|r SLT + HTT
-{time:1:04}Break 1.3 - 
+{time:1:05}Chains: |cffa22fc8Ketsukei|r  |cfffe7b09Mohotszilla|r |cff3ec6eaCrueltyok|r 
+{time:1:05}Break 1.1 - |cfffefefeJiie|r Barrier + |cffc59a6cFrostfurý|r Shout 
+{time:1:10}Break 1.2 - |cff006fdcThatsbad|r SLT + HTT
+{time:1:12}Break 1.3 - 
 
 {time:2:12}|cffff0000~~Intermission~~|r
 
-{time:3:45}Chains: |cff3ec6eaCathisrad|r  |cfffe7b09Mohotszilla|r |cff3ec6eaCrueltyok|r 
-{time:3:45}Break 2.1 - |cfffe7b09Eluv|r  Tranq + |cfffefefeJiie|r Barrier 
-{time:3:50}Break 2.2 - |cff006fdcNoriega|r SLT+HTT + |cfffe7b09Eluv|r Tree
+{time:3:45}Chains: |cff3ec6eaCathisrad|r  |cfff38bb9Nakkiel|r |cffa9d271Arlyuiin|r 
+{time:3:45}Break 2.1 - |cffc59a6cNiinjjas|r Shout + |cff006fdcKiraez|r SLT + HTT
+{time:3:50}Break 2.2 - |cfffe7b09Eluv|r  Tranq  + |cfffe7b09Eluv|r Tree
 {time:3:55}Break 2.3 - 
 
 {time:4:45}|cffff0000~~Intermission~~|r
 
-{time:4:25}Chains: |cfffe7b09Eluv|r |cff3ec6eaWorkingbob|r  |cffa9d271Cerbii|r 
-{time:4:25}Break 3.1 - |cfffe7b09Mohotszilla|r Tranq + |cffc59a6cFrostfurý|r Shout 
-{time:4:30}Break 3.2 - |cff006fdcKiraez|r SLT + HTT
+{time:4:25}Chains: |cfffe7b09Yadidi|r |cffc31d39Spicymiso|r |cffa9d271Cerbii|r 
+{time:4:25}Break 3.1 - |cfffefefeLyci|r Hymn - |cffc59a6cFrostfurý|r Shout 
+{time:4:30}Break 3.2 - |cff006fdcThatsbad|r HTT
 {time:4:35}Break 3.3 - 
 
 
-{time:6:55}Chains: |cfff38bb9Nakkiel|r |cfffefefeKeadoru|r |cff8687edZachlock|r 
-{time:7:02}Break 3.1 - |cfffefefeAnnalyze|r Salve + |cfffefefeJiie|r Barrier
-{time:7:10}Break 3.2 -  |cfff38bb9Einnkil|r AM + |cfffe7b09Eluv|r Tree
-{time:7:16}Break 3.3 - 
+{time:5:45}Chains: |cffc59a6cNiinjjas|r |cff006fdcKiraez|r   |cff8687edZachlock|r 
+{time:5:45}Break 4.1 - |cffc31d39Spicymiso|r |cffc31d39Plowcoww|r AMZ
+{time:5:50}Break 4.2 - |cff006fdcThatsbad|r  SLT |cffa22fc8Ketsukei|r Dark
+{time:5:52}Break 4.3 - 
 
+{time:6:25}Chains: |cff006fdcNoriega|r |cfffe7b09Eluv|r  |cfffef367Strifelol|r 
+{time:6:25} Break 5.1 - |cfffefefeJiie|r Barrier + |cffc59a6cNiinjjas|r Shout + |cfffefefeLyci|r Salve
+{time:6:30} Break 5.2 -
+{time:6:32} Break 5.3 - |cff006fdcKiraez|r  HTT (Stabalize)
 
+{time:7:10}Chains:|cffc59a6cFrostfurý|r |cff006fdcThatsbad|r |cfffefefeJiie|r 
+{time:7:10} Break 6.1 - |cfffefefeLyci|r Hymn + |cff006fdcKiraez|r SLT
+{time:7:15} Break 6.2 - |cfffe7b09Eluv|r  Tree+Tranq
+{time:7:17} Break 6.3 - 
+
+{time:8:00}Chains:|cffa22fc8Ketsukei|r  |cfffe7b09Mohotszilla|r |cff3ec6eaCrueltyok|r 
+{time:8:00} Break 6.1 - |cff006fdcThatsbad|r HTT  |cffc59a6cFrostfurý|r  Shout
+{time:8:05} Break 6.2 - 
+{time:8:10} Break 6.3 - 
+
+|cffffff00Chain Backup:|r |cffc31d39Plowcoww|r |cfffefefeLyci|r 
+
+{skull}|cff006fdcNoriega|r 
+{cross}|cff3ec6eaCrueltyok|r 
+{square}|cffa22fc8Ketsukei|r 
+{moon}|cff3ec6eaCathisrad|r 
 |cff00ff00LUST:|r PULL
-1{square}
-2{triangle}
-3{diamond}
-4{star}
+(1{square}) (2{triangle}) (3{diamond}) (4{star})
+|cfffe7b09Eluv|r  - (|cfffe7b09Yadidi|r  ) - |cfffe7b09Mohotszilla|r
