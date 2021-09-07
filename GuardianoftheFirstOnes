@@ -1,19 +1,55 @@
-{time:0:52} Protocol 1.1: |cff006fdcKiraez|r HTT + |cff006fdcKiraez|r SLT
-{time:0:57} Protocol 1.2: |cfff38bb9Einnkil|r AM + |cfffefefeJiie|r SS
-{time:1:07} Field 1: |cfffe7b09Eluv|r Tranq + |cffc59a6cNiinjjas|r Rally + |cffa22fc8Ketsukei|r Dark+|cffc31d39Spicymiso|r AMZ
+3 RSham Set-Up:
 
-{time:2:19} Protocol 2.1: |cfffefefeAnnalyze|r Salv  + |cffc59a6cFrostfurý|r Rally + |cffc31d39Plowcoww|r AMZ
-{time:2:26} Protocol 2.2: |cfffefefeJiie|r Barrier
-{time:2:37} Field 2: |cfffe7b09Eluv|r Tree + |cfffefefeJiie|r  SS
+{time:0:30} Obliterate Raid: SLT + HTT A
 
-{time:3:48} Protocol 3.1: |cfffefefeAnnalyze|r Hymn
-{time:3:53} Protocol 3.2: |cffc59a6cLeikkan|r Rally 
-{time:4:22} Field 3: |cfffe7b09Eluv|r Tranq 
-{time:5:16} Protocol 4.1: |cff006fdcKiraez|r HTT + |cff006fdcKiraez|r  SLT+ |cffa22fc8Ketsukei|r Dark + |cfff38bb9Einnkil|r AM + |cfffefefeJiie|r SS
-{time:5:20} Protocol 4.2: |cffc31d39Spicymiso|r AMZ
+{time:0:50} Protocol 1.1: SLT + HTT C
+{time:0:56} Protocol 1.2: Barrier
+{time:1:02} Protocol 1.3: Tree
+{time:1:06} Field 1: Rally 
 
-|cffff0000Obliterate Groups:|r
-1: G2 G3 - |cff00ff00LEFT|r{moon} |cffc59a6cLeikkan|r 
-2: G4 G5 + non-tanks in G1 - |cff00ff00RIGHT|r{triangle} |cffc31d39Spicymiso|r 
+{time:2:20} Protocol 2.1: 
+{time:2:26} Protocol 2.2: Dark SLT + HTT B
+{time:2:32} Protocol 2.3: AMZ
+{time:2:36} Field 2: Rally + Tranq 
+
+{time:3:35} Stabilize: HTT A
+
+{time:3:56} Protocol 3.1: SLT + HTT C
+{time:4:02} Protocol 3.2: Barrier
+{time:4:08} Protocol 3.3: Tree
+{time:4:12} Field 3: Rally + SLT A
+
+
+{time:5:24} Protocol 4.1: SLT + HTT B
+{time:5:30} Protocol 4.2: AMZ
+
+|cff00ff00LUST:|r PULL
+
+
+=========================================================================
+2Rsham, 1 HPriest Set-Up:
+
+{time:0:30} Obliterate Raid: SLT + HTT A
+
+{time:0:50} Protocol 1.1: SLT + HTT C
+{time:0:56} Protocol 1.2: Barrier
+{time:1:02} Protocol 1.3: Tree
+{time:1:06} Field 1: Rally 
+
+{time:2:20} Protocol 2.1: 
+{time:2:26} Protocol 2.2: Dark Hymn -> Salve
+{time:2:32} Protocol 2.3: AMZ
+{time:2:36} Field 2: Rally + Tranq 
+
+{time:3:35} Stabilize: HTT A
+
+{time:3:56} Protocol 3.1: SLT + HTT C
+{time:4:02} Protocol 3.2: Barrier
+{time:4:08} Protocol 3.3: Tree
+{time:4:12} Field 3: Rally + SLT A
+
+
+{time:5:24} Protocol 4.1: Hymn
+{time:5:30} Protocol 4.2: AMZ
 
 |cff00ff00LUST:|r PULL
