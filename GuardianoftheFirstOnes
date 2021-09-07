@@ -7,10 +7,14 @@
 {time:1:02} Protocol 1.3: Tree
 {time:1:06} Field 1: Rally 
 
+{time:1:44} Obliterate Immune: Hunter - Hunter - Rogue
+
 {time:2:20} Protocol 2.1: 
 {time:2:26} Protocol 2.2: Dark SLT + HTT B
 {time:2:32} Protocol 2.3: AMZ
 {time:2:36} Field 2: Rally + Tranq 
+
+{time:3:15} Obliterate Immune: Mage - Mage - DH
 
 {time:3:35} Stabilize: HTT A
 
@@ -19,6 +23,7 @@
 {time:4:08} Protocol 3.3: Tree
 {time:4:12} Field 3: Rally + SLT A
 
+{time:4:48} Obliterate Immune: Hunter - Hunter - Rogue 
 
 {time:5:24} Protocol 4.1: SLT + HTT B
 {time:5:30} Protocol 4.2: AMZ
@@ -36,10 +41,14 @@
 {time:1:02} Protocol 1.3: Tree
 {time:1:06} Field 1: Rally 
 
+{time:1:44} Obliterate Immune: Hunter - Hunter - Rogue
+
 {time:2:20} Protocol 2.1: 
 {time:2:26} Protocol 2.2: Dark Hymn -> Salve
 {time:2:32} Protocol 2.3: AMZ
 {time:2:36} Field 2: Rally + Tranq 
+
+{time:3:15} Obliterate Immune: Mage - Mage - DH
 
 {time:3:35} Stabilize: HTT A
 
@@ -48,8 +57,10 @@
 {time:4:08} Protocol 3.3: Tree
 {time:4:12} Field 3: Rally + SLT A
 
+{time:4:48} Obliterate Immune: Hunter - Hunter - Rogue 
 
 {time:5:24} Protocol 4.1: Hymn
 {time:5:30} Protocol 4.2: AMZ
 
 |cff00ff00LUST:|r PULL
+
