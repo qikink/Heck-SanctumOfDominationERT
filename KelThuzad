@@ -1,29 +1,48 @@
 |cffff0000P1:|r
-{time:0:40}Frozen Destruction - SLT + HTT |cff006fdcKiraez|r + Barrier |cfffefefeJiie|r 
-{time:1:00}Frost Blast - Rally |cffc59a6cNiinjjas|r + Darkness |cffa22fc8Ketsukei|r 
+{time:0:39}Frozen Destruction - |cff006fdcKiraez|r SLT + HTT, Barrier, |cffc59a6cNiinjjas|r Rally, AMZ
+{time:0:41}Frozen Destruction - |cff006fdcThatsbad|r HTT, |cfffe7b09Eluv|r Tranq  
+{time:0:50}Frost Blast - |cff00ffffSOAK|r - |cff006fdcThatsbad|r SLT, |cfffe7b09Eluv|r Tree
+{time:1:30}Frost Blast - |cffffff00IMMUNE|r - |cff006fdcThatsbad|r APT
 
-{time:1:05}Intermission
+{time:2:10}|cffff0000Intermission |rRally
+{time:2:55}|cffff0000Phase|r
 
-|cffff0000P2:|r
-{time:2:30}Frozen Destruction - AM |cfff38bb9Einnkil|r  + Tranq  |cfffe7b09Eluv|r 
-{time:3:10}Frozen Destruction - Salve + Hymn |cfffefefeAnnalyze|r + Rally |cffc59a6cFrostfurý|r 
-{time:3:40}Frost Blast - Rally |cffc59a6cLeikkan|r 
+{time:3:10}|cffff0000P2:|r
+{time:3:39}Frozen Destruction - |cff006fdcKiraez|r SLT + HTT, Barrier, |cffc59a6cNiinjjas|r Rally, AMZ
+{time:3:41}Frozen Destruction - |cff006fdcThatsbad|r HTT, |cfffe7b09Eluv|r Tranq  
+{time:3:44}Frost Blast - |cff00ffffSOAK|r - |cff006fdcThatsbad|r SLT, |cfffe7b09Eluv|r Tree
+{time:4:24}Frost Blast - |cff00ffffSOAK|r - 
 
-{time:3:45}Intermission
+{time:5:05}|cffff0000Intermission|r
+{time:5:48}|cffff0000Phase|r
 
-|cffff0000P3:|r
-{time:5:00}Frozen Destruction - SLT + HTT  |cff006fdcKiraez|r + Barrier |cfffefefeJiie|r + Rally |cffc59a6cNiinjjas|r 
+{time:6:05}|cffff0000P3:|r
+{time:6:25}Frozen Destruction |cff00ff00[SINGLE]|r - Rally/AMZ/Dark
+{time:6:40}Frozen Destruction |cffff0000[MULTI]|r - |cff006fdcKiraez|r SLT + HTT, Barrier, |cffc59a6cNiinjjas|r Rally, AMZ
+{time:6:37}Frost Blast - |cffffff00IMMUNE|r - |cff006fdcThatsbad|r APT 
+{time:7:17}Frost Blast - |cffff0000SAC|r - 
 
-{time:6:40}Intermission - Hymn |cfffefefeAnnalyze|r 
+{time:7:45}|cffff0000Intermission|r
 
-|cffff0000P4:|r
-{time:7:25} Frost Blast - + Rally |cffc59a6cFrostfurý|r + AM |cfff38bb9Einnkil|r 
-{time:7:40} Frost Blast - Tranq |cfffe7b09Eluv|r +Darkness |cffa22fc8Ketsukei|r  +SLT + HTT  |cff006fdcKiraez|r
-{time:7:55} Frost Blast - 
+{time:8:25}|cffff0000P4:|r
+{time:8:40}|cfffe7b09Eluv|r Tree
+{time:8:50}|cff006fdcThatsbad|r HTT
+{time:9:00}|cfffe7b09Eluv|r Tranq
+{time:9:10}
 
 |cffffff00Phylactery:|r
-Melee
-|cfff38bb9Einnkil|r 
+|cfffe7b09Eluv|r 
+Strife
+Yadidi
+
+
+|cffffff00Soak Team 6:|r
+|cfffe7b09Eluv|r 
+Strife
+Yadidi
+Miso
+Malak
+|cff00ffffBackup:|r Zach
 
 
 |cff00ff00LUST:|r Final P1
