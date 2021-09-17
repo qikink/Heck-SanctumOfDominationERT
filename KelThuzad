@@ -1,28 +1,27 @@
 |cffff0000P1:|r
 {time:0:39}Frozen Destruction - |cff006fdcKiraez|r SLT + HTT, Barrier, |cffc59a6cNiinjjas|r Rally, AMZ
 {time:0:41}Frozen Destruction - |cff006fdcThatsbad|r HTT, |cfffe7b09Eluv|r Tranq  
-{time:0:50}Frost Blast - |cff00ffffSOAK|r - |cff006fdcThatsbad|r SLT, |cfffe7b09Eluv|r Tree
-{time:1:30}Frost Blast - |cffffff00IMMUNE|r - |cff006fdcThatsbad|r APT
-
-{time:2:10}|cffff0000Intermission |rRally
-{time:2:55}|cffff0000Phase|r
+{time:0:50}Frost Blast - |cff00ffffSOAK|r - |cfffe7b09Eluv|r Tree
+{time:1:30}Frost Blast - |cff00ffffSOAK|r - 
+{time:2:06}|cffff0000Intermission |rRally
+{time:2:50}|cffff0000Phase|r
 
 {time:3:10}|cffff0000P2:|r
-{time:3:39}Frozen Destruction - |cff006fdcKiraez|r SLT + HTT, Barrier, |cffc59a6cNiinjjas|r Rally, AMZ
+{time:3:40}Frozen Destruction - |cff006fdcKiraez|r SLT + HTT, Barrier, |cffc59a6cNiinjjas|r Rally, AMZ
 {time:3:41}Frozen Destruction - |cff006fdcThatsbad|r HTT, |cfffe7b09Eluv|r Tranq  
 {time:3:44}Frost Blast - |cff00ffffSOAK|r - |cff006fdcThatsbad|r SLT, |cfffe7b09Eluv|r Tree
 {time:4:24}Frost Blast - |cff00ffffSOAK|r - 
 
-{time:5:05}|cffff0000Intermission|r
-{time:5:48}|cffff0000Phase|r
+{time:5:02}|cffff0000Intermission|r
+{time:5:46}|cffff0000Phase|r
 
 {time:6:05}|cffff0000P3:|r
 {time:6:25}Frozen Destruction |cff00ff00[SINGLE]|r - Rally/AMZ/Dark
 {time:6:40}Frozen Destruction |cffff0000[MULTI]|r - |cff006fdcKiraez|r SLT + HTT, Barrier, |cffc59a6cNiinjjas|r Rally, AMZ
-{time:6:37}Frost Blast - |cffffff00IMMUNE|r - |cff006fdcThatsbad|r APT 
-{time:7:17}Frost Blast - |cffff0000SAC|r - 
+{time:6:37}Frost Blast - |cffff0000SAC|r - 
+{time:7:17}Frost Blast - |cff00ffffSOAK|r - 
 
-{time:7:45}|cffff0000Intermission|r
+{time:7:53}|cffff0000Intermission|r
 
 {time:8:25}|cffff0000P4:|r
 {time:8:40}|cfffe7b09Eluv|r Tree
