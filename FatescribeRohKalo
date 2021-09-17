@@ -1,59 +1,57 @@
 |cffff0000P1|r
-{time:0:05} Twist Fate
-{time:0:45} Invoke Destiny - |cfffefefeJiie|r Barrier
-{time:0:55} Twist Fate
-{time:1:23} Invoke Destiny - |cfffe7b09Eluv|r Tranq
-{time:1:45} Twist Fate - Annalyze Salve
+{time:0:05} Twist Fate - 
+{time:0:30} Invoke Destiny - |cff006fdcNoriega|r SLT+HTT
+{time:0:35} |cffffff00[OVERLAP]|rTwist Fate - |cffc59a6cFrostfurý|r  Rally
+{time:0:55} Twist Fate - Barrier
+{time:1:15} Invoke Destiny - |cff006fdcKiraez|r SLT + |cffa22fc8Ketsukei|r Darkness
+{time:1:25} Twist Fate - |cfffe7b09Eluv|r Tranq
 
-{time:2:00} |cffff0000Intermission|r - |cfffe7b09Eluv|r Tree + |cff006fdcKiraez|r HTT
-{time:2:15} Intermission Pt2 - Anna Hymn
+{time:2:00} |cffff0000Intermission|r - |cfffe7b09Eluv|r Tree
+{time:2:15} Pt 2 - |cff006fdcKiraez|r HTT + |cffc59a6cNiinjjas|r Rally
 
 |cffff0000P2|r
-{time:2:50} Twist Fate - |cfff38bb9Einnkil|r AM
-{time:3:30} Invoke Destiny - |cff006fdcKiraez|r SLT 
-{time:3:40} Twist Fate - 
-{time:4:07} Invoke Destiny - |cfffefefeJiie|r Barrier
+{time:2:50} Twist Fate - |cffc31d39Plowcoww|r AMZ
+{time:3:20} Invoke Destiny - |cff006fdcThatsbad|r SLT+HTT
+{time:3:22} |cffffff00[OVERLAP]|rTwist Fate - 
+{time:3:45} Twist Fate - |cffc59a6cFrostfurý|r Rally
+{time:4:04} Invoke Destiny - |cff006fdcNoriega|r SLT+HTT
+{time:4:17} Twist Fate - Barrier
 
-{time:5:10}|cffff0000 Intermission|r-  |cfffe7b09Eluv|r Tree + |cff006fdcKiraez|r HTT 
-{time:5:25} Anna Hymn
+{time:4:30} Stabilize |cfffe7b09Eluv|r Tranq
+{time:4:50}|cffff0000 Intermission|r-  |cfffe7b09Eluv|r Tree 
+{time:5:15} Pt 2 - |cff006fdcKiraez|r HTT + |cffc59a6cNiinjjas|r  Rally
 
 |cffff0000P3|r
 
-{time:6:20} Invoke Destiny - |cfff38bb9Einnkil|r AM
-{time:6:33} Debuff - |cfffe7b09Eluv|r Tranq
-{time:7:04} Invoke Destiny - |cff006fdcKiraez|r SLT  
-{time:7:25} Debuff - Annalyze Salve
-{time:8:00} Twist Fate
-{time:8:10} Invoke Destiny - |cfffefefeJiie|r Barrier
+{time:6:03} Invoke Destiny - |cff006fdcKiraez|r SLT
+{time:6:04} |cffffff00[OVERLAP]|rTwist Fate - |cffa22fc8Ketsukei|r Darkness
+{time:6:48} Invoke Destiny - |cff006fdcThatsbad|r SLT+HTT, |cffc31d39Plowcoww|r AMZ
+{time:6:49} |cffffff00[OVERLAP]|rTwist Fate - |cffc59a6cFrostfurý|r Rally
+{time:7:30} Invoke Destiny - Barrier
 
 |cff00ff00LUST:|r P3
 |cffffff00CLOCKWISE:|r |cffff00001|r (LEFT)
 |cffffff00C-CLOCKWISE:|r |cffff00002|r (RIGHT)
 {star}{circle}{diamond}{triangle}{moon}{square}
 
-|cff00ff00Intermission Interrupts:|r
-{skull} - 
-{cross} - 
 
 start
+|cffa22fc8Ketsukei|r 
+|cffc59a6cFrostfurý|r 
+|cffc59a6cNiinjjas|r 
+|cffc31d39Plowcoww|r 
+|cff006fdcTrotskey|r 
+|cfffef367Strifelol|r
+|cff006fdcKiraez|r 
 |cfffe7b09Yadidi|r 
 |cff3ec6eaWorkingbob|r 
-|cffa22fc8Ketsukei|r 
-|cff006fdcKiraez|r 
-|cff3ec6eaCathisrad|r 
+|cff3ec6eaCathisrad|r
+|cff3ec6eaCrueltyok|r 
 |cff006fdcNoriega|r 
-|cfffe7b09Mohotszilla|r 
+|cff006fdcThatsbad|r 
 |cffa9d271Cerbii|r 
-|cffc59a6cNiinjjas|r 
-|cffc59a6cFrostfurý|r 
-|cffc31d39Plowcoww|r 
-|cfffe7b09Karnâ|r 
+|cff8687edZachlock|r
 |cfffe7b09Eluv|r
-|cfffef367Strifelol|r 
 |cffa9d271Arlyuiin|r 
-|cff8687edZachlock|r  
-|cfffefefeKeadoru|r
-|cfff38bb9Einnkil|r  
-|cfffefefeJiie|r 
-|cfffefefeAnnalyze|r 
+|cfffefefeEmysapriest|r 
 end
