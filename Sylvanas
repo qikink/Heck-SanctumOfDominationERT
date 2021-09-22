@@ -1,21 +1,36 @@
-{H}{time:0:07} Barbed - A HTT
+{H}
+{time:0:07} Barbed - A HTT
 {time:0:15} Barbed - |cfffe7b09Eluv|r Tree
-{time:0:27} Barbed - Evangelism{H}
-{D}{time:0:38} Chains 1 Left{circle}: |cffa9d271Cerbii|r  True+wild, |cfffe7b09Jitsukoo|r incarn
-{time:0:38} Chains 2 Right{diamond}:|cffa9d271Arlyuiin|r  trueshot+wild, |cff006fdcNoriega|r Stormkeeper{/D}
+{time:0:27} Barbed - Evangelism
+{/H}
+{D}
+{time:0:38} Chains 1 Left{circle}: |cffa9d271Cerbii|r  True+wild, |cfffe7b09Jitsukoo|r incarn
+{time:0:38} Chains 2 Right{diamond}:|cffa9d271Arlyuiin|r  trueshot+wild, |cff006fdcNoriega|r Stormkeeper
+{/D}{H}
+{time:0:40} Black Arrow
+{/H}
 {time:0:45} |cffff0000BAIT EAST|r
-{D}{time:1:33} Chains 2 Left{star}: |cffc59a6cNiinjjas|r avatar, |cff006fdcTrotskey|r Doomwinds
-{time:1:33} Chains 2 Right{triangle}:|cff006fdcNoriega|r Stormkeeper, |cffc59a6cFrostfurý|r  Avatar{/D}
+{D}
+{time:1:33} Chains 2 Left{star}: |cffc59a6cNiinjjas|r avatar, |cff006fdcTrotskey|r Doomwinds
+{time:1:33} Chains 2 Right{triangle}:|cff006fdcNoriega|r Stormkeeper, |cffc59a6cFrostfurý|r  Avatar
 {time:1:35} |cffff0000BAIT SOUTHEAST|r{triangle}
-{H}{time:1:48} Black Arrow - B HTT
-{time:2:00} Barbed - Evangelism{/H}
+{/D}{H}
+{time:1:48} Black Arrow - B HTT
+{time:2:00} Barbed - Evangelism
+{/H}{D}
+
 {time:2:15} |cffff0000BAIT SOUTH|r
-{D}{time:2:38} Chains 3 Left: |cffa9d271Cerbii|r TS+WS, |cffc31d39Plowcoww|r  Alimb
-{time:2:38} Chains 3 Right:|cff006fdcNoriega|r Elemental+storm, |cffa9d271Arlyuiin|r TS+WS{/D}
-{H}{time:2:48} Black Arrow - A SLT, |cfffe7b09Eluv|r Tranq
-{time:3:07} Barbed - A HTT{/H}
+{time:2:38} Chains 3 Left: |cffa9d271Cerbii|r TS+WS, |cffc31d39Plowcoww|r  Alimb
+{time:2:38} Chains 3 Right:|cff006fdcNoriega|r Elemental+storm, |cffa9d271Arlyuiin|r TS+WS
+{/D}{H}
+{time:2:34} Woe - 
+{time:2:48} Black Arrow - A SLT, |cfffe7b09Eluv|r Tranq
+
+{time:3:07} Barbed - A HTT
+{H}
 {time:3:15} |cffff0000BAIT SOUTHWEST|r{star}
-{H}{time:3:25} Woe - B SLT, |cfffe7b09Eluv|r Tree, Barrier
+{H}
+{time:3:25} Woe - B SLT, |cfffe7b09Eluv|r Tree, Barrier, |cffc31d39Plowcoww|r AMZ
 {time:3:30} Chains - Evangelism
 
 |cff00ffffINTERMISSION|r
