@@ -1,48 +1,45 @@
-{H}
-{time:0:07} Barbed - A HTT
+{H}{time:0:07} Barbed - |cff006fdcThatsbad|r  HTT
 {time:0:15} Barbed - |cfffe7b09Eluv|r Tree
-{time:0:27} Barbed - Evangelism
-{/H}
-{D}
-{time:0:38} Chains 1 Left{circle}: |cffa9d271Cerbii|r  True+wild, |cfffe7b09Jitsukoo|r incarn
-{time:0:38} Chains 2 Right{diamond}:|cffa9d271Arlyuiin|r  trueshot+wild, |cff006fdcNoriega|r Stormkeeper
-{/D}{H}
-{time:0:40} Black Arrow
-{/H}
-{time:0:45} |cffff0000BAIT EAST|r
-{D}
-{time:1:33} Chains 2 Left{star}: |cffc59a6cNiinjjas|r avatar, |cff006fdcTrotskey|r Doomwinds
-{time:1:33} Chains 2 Right{triangle}:|cff006fdcNoriega|r Stormkeeper, |cffc59a6cFrostfurý|r  Avatar
-{time:1:35} |cffff0000BAIT SOUTHEAST|r{triangle}
-{/D}{H}
-{time:1:48} Black Arrow - B HTT
-{time:2:00} Barbed - Evangelism
-{/H}{D}
-
-{time:2:15} |cffff0000BAIT SOUTH|r
-{time:2:38} Chains 3 Left: |cffa9d271Cerbii|r TS+WS, |cffc31d39Plowcoww|r  Alimb
-{time:2:38} Chains 3 Right:|cff006fdcNoriega|r Elemental+storm, |cffa9d271Arlyuiin|r TS+WS
-{/D}{H}
-{time:2:34} Woe - 
-{time:2:48} Black Arrow - A SLT, |cfffe7b09Eluv|r Tranq
-
-{time:3:07} Barbed - A HTT
-{H}
-{time:3:15} |cffff0000BAIT SOUTHWEST|r{star}
-{H}
-{time:3:25} Woe - B SLT, |cfffe7b09Eluv|r Tree, Barrier, |cffc31d39Plowcoww|r AMZ
-{time:3:30} Chains - Evangelism
-
+{time:0:17} Barbed - |cfffefefeModotszilla|r Rapture{/H}
+{D}{time:0:38} Chains 1 Left{circle}: |cffa9d271Cerbii|r  TS+WS, |cfffe7b09Jitsukoo|r Incarn
+{time:0:38} Chains 2 Right{diamond}:|cfffe7b09Cereaza|r Incarn, |cffa9d271Nooze|r TS+WS{/D}
+{H}{time:0:40} Black Arrow{/H}
+{D}{time:1:33} Chains 2 Left{diamond}: |cffc59a6cNiinjjas|r Ava, |cffa22fc8Ketsukei|r ,|cff8687edZachlock|r Imps, |cfffe7b09Jitsukoo|r Roar
+{time:1:33} Chains 2 Right{triangle}:|cff006fdcTrotskey|r, |cff8687edGrimmel|r imps{/D}
+{H}{time:1:48} Black Arrow - |cff006fdcKiraez|r HTT
+{time:1:50} Barbed - |cfffefefeModotszilla|r Rapture{/H}
+{D}{time:2:38} Chains 3 Left{triangle}:|cffa9d271Cerbii|r TS+WS, |cffc31d39Plowcoww|r  Alimb, |cff00fe97Demikun|r 
+{time:2:38} Chains 3 Right{moon}:|cff006fdcTrotskey|r ,|cffa9d271Nooze|r TS+WS{/D}
+{H}{time:2:41} Black Arrow - |cff006fdcThatsbad|r  SLT, |cfffe7b09Eluv|r Tranq
+{time:2:48} Black Arrow - |cfffefefeModotszilla|r Barrier
+{time:3:07} Barbed - |cff006fdcThatsbad|r  HTT, |cffc59a6cNiinjjas|r Rally{/H}
+{H}{time:3:20} Woe - |cfffefefeModotszilla|r Rapture
+{time:3:25} Woe - |cff006fdcKiraez|r SLT, |cfffe7b09Eluv|r Tree, |cffc31d39Plowcoww|r AMZ, |cffa22fc8Ketsukei|r Darkness{/H}
 |cff00ffffINTERMISSION|r
-
-{time:5:38} B HTT, Evangelism
-{time:6:27} |cfffe7b09Eluv|r Tree
-{time:7:07} A HTT
-
-{/H}
-
-
-
-
-
-
+9 - |cffff00ffLEFT:|r |cff00fe97Malakkar|r - |cffc59a6cNiinjjas|r |cffa22fc8Ketsukei|r |cfffef367Strifelol|r |cffc31d39Plowcoww|r |cfffe7b09Jitsukoo|r |cffff0000[|r|cffa9d271Nooze|r|cffff0000]|r |cffff0000[|r|cff8687edGrimmel|r|cffff0000]|r - |cfffefefeModotszilla|r |cff006fdcKiraez|r 
+11 - |cffff00ffRIGHT:|r Others <- |cff006fdcKiraez|r, |cffa9d271Nooze|r 
+{D}|cfffe7b09Jitsukoo|r ->Platform 1+2 - |cffa9d271Nooze|r, |cff3ec6eaCathisrad|r, |cffa9d271Cerbii|r, |cff8687edZachlock|r {/D}
+{H}{time:4:50} Withering Fire - |cff006fdcKiraez|r HTT
+{time:5:48} Dagger - |cfffefefeModotszilla|r Rapture, |cff006fdcThatsbad|r SLT
+{time:6:07} Dagger - |cff006fdcThatsbad|r HTT{/H}
+{D}Platform 3 - |cff3ec6eaCrueltyok|r , |cffc31d39Plowcoww|r, |cffa22fc8Ketsukei|r{/D}
+{H}{time:6:25} Withering Fire - |cfffe7b09Eluv|r Tree
+{time:6:45} Expulsion - |cff006fdcKiraez|r SLT
+{time:6:57} |cfffefefeModotszilla|r Barrier{/H}
+{D}Platform 4+5 - |cfffe7b09Jitsukoo|r, |cfffef367Strifelol|r <-> |cfffe7b09Cereaza|r, |cff8687edZachlock|r {/D}
+{H}{time:7:30} Ramp - Modotszilla Rapture
+{time:6:50} |cfffe7b09Eluv|r Tranq
+{time:7:50} Dagger - |cff006fdcKiraez|r HTT{/H}
+{D}|cfffe7b09Jitsukoo|r ->Platform 6 - |cff3ec6eaCathisrad|r |cff3ec6eaCrueltyok|r |cffa9d271Nooze|r |cffa9d271Cerbii|r {/D}
+{H}{time:8:50} Fury - |cff006fdcThatsbad|r SLT
+{time:9:05} Ramp - Modotszilla Rapture
+{time:9:20} Wailing - |cff006fdcThatsbad|r HTT
+{time:9:50} Fury - |cfffe7b09Eluv|r Tranq -> |cff006fdcKiraez|r SLT
+{time:10:20} Wailing - Modotszilla Barrier
+{time:10:45} Fury - Modotszilla Rapture
+{time:11:20} Ramp - |cfffe7b09Eluv|r Tree
+{time:11:55} Fury - |cff006fdcThatsbad|r SLT, |cff006fdcKiraez|r HTT
+{time:12:30} Ramp - Modotszilla Rapture
+{time:12:50} Wailing - |cfffe7b09Eluv|r Tranq
+{time:13:00} Fury - |cff006fdcThatsbad|r HTT
+{time:13:40} Wailing - Modotszilla Barrier->|cff006fdcKiraez|r SLT{/H}
